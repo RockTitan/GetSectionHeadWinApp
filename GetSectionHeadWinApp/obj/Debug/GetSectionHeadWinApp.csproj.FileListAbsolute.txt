@@ -1,0 +1,10 @@
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\bin\Debug\GetSectionHeadWinApp.exe.config
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\bin\Debug\GetSectionHeadWinApp.exe
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\bin\Debug\GetSectionHeadWinApp.pdb
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\obj\Debug\GetSectionHeadWinApp.csprojResolveAssemblyReference.cache
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\obj\Debug\GetSectionHeadWinApp.Form1.resources
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\obj\Debug\GetSectionHeadWinApp.Properties.Resources.resources
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\obj\Debug\GetSectionHeadWinApp.csproj.GenerateResource.Cache
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\obj\Debug\GetSectionHeadWinApp.csproj.CoreCompileInputs.cache
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\obj\Debug\GetSectionHeadWinApp.exe
+C:\Users\RockTitan\Desktop\C# Practice\GetSectionHeadWinApp\GetSectionHeadWinApp\obj\Debug\GetSectionHeadWinApp.pdb
